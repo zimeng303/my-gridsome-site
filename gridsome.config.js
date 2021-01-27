@@ -23,12 +23,12 @@ module.exports = {
         queryLimit: 1000, // Defaults to 100
         contentTypes: ['posts', 'tags'], // 查询的数据类型
         // typeName: 'Strapi',
-        singleTypes: ['general'], // 单个节点
+        singleTypes: ['General'], // 单个节点
         // Possibility to login with a Strapi user,
         // when content types are not publicly available (optional).
         loginData: { // 登录信息
           identifier: 'alison_li',
-          password: '123456'
+          password: '12345678'
         }
       }
     }
