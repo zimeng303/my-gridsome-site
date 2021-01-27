@@ -26,10 +26,10 @@ module.exports = {
         singleTypes: ['General'], // 单个节点
         // Possibility to login with a Strapi user,
         // when content types are not publicly available (optional).
-        loginData: { // 登录信息
-          identifier: 'alison_li',
-          password: '12345678'
-        }
+        // loginData: { // 登录信息
+        //   identifier: 'alison_li',
+        //   password: '12345678'
+        // }
       }
     }
   ],
